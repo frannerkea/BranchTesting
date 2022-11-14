@@ -4,4 +4,12 @@ public class Cat extends Animal{
         System.out.println("miahuhu");
     }
 
+    public void showMood(boolean mood) {
+        if (mood = true){
+            System.out.println("spinder");
+        }    else {
+            System.out.println("hvæser");
+        }
+    }
+
 }
