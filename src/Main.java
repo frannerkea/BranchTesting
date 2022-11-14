@@ -11,8 +11,12 @@ public class Main {
         dog.makeSound();
         cat.makeSound();
 
-        dog.eat("doggo food");
-        cat.eat("shit");
+        //dog.eat("doggo food");
+        //cat.eat("shit");
+
+        cat.showMood(true);
+        dog.showMood(true);
+
 
     }
 

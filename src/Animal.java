@@ -7,4 +7,6 @@ public abstract class Animal {
     public void showMood(boolean mood) {
     }
 
+
+
 }
